@@ -1,0 +1,1 @@
+Flask app om mqtt data te visualiseren/ analyseren
